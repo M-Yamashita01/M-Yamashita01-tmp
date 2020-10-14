@@ -1,5 +1,5 @@
 ## About Me 👋
-I'm Yamashita, server side developer.
+I'm Yamashita, backend developer.
 I'm currently working in Fukuoka, Japan, and learning Ruby, Ruby on Rails, Docker, Kubernetes and AWS.
 
 ## Find Me Elsewhere
