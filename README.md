@@ -6,6 +6,7 @@ I'm currently working in Fukuoka, Japan, and learning Ruby, Ruby on Rails, Docke
 - [Twitter](https://twitter.com/M_Yamashii)
 - [LinkedIn](https://www.linkedin.com/in/m-yamashii/)
 - [Qiita](https://qiita.com/M-Yamashii)
+- [SpeakerDeck](https://speakerdeck.com/myamashii)
 
 ## My Projects
 
